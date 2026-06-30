@@ -1,0 +1,78 @@
+# Core LLM Clients
+openai
+groq
+google-generativeai
+mistralai
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+langchain-mistralai
+langchain-text-splitters
+
+# LangGraph
+langgraph
+langgraph-checkpoint
+langgraph-checkpoint-sqlite
+langgraph-sdk
+langchain-anthropic
+langchain-cohere
+
+# Hugging Face
+huggingface-hub
+transformers
+sentence-transformers
+
+# Vector Stores
+faiss-cpu
+chromadb
+
+# Tokenization
+tiktoken
+
+# Configuration & Validation
+python-dotenv
+pydantic
+pydantic-settings
+
+# API Framework
+fastapi
+uvicorn
+
+# HTTP Clients
+requests
+httpx
+
+# Data Processing
+numpy
+pandas
+tqdm
+
+# Document Parsing (lightweight alternatives to unstructured)
+pypdf
+python-docx
+# unstructured  # Uncomment only if on Python 3.11-3.12
+
+# ML / Deep Learning
+torch
+accelerate
+
+# UI & Async
+streamlit
+asyncio
+
+# Web Scraping
+playwright
+
+# MCP
+mcp-agent
+
+# Observability & Utilities
+langsmith
+tenacity
+jsonschema
